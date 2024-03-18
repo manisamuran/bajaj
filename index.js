@@ -30,9 +30,9 @@ app.post("/bfhl", (req, res) => {
 
     res.status(200).json({
         success: true,
-        user_id: "Rishi_Singh",
-        email: "Rishi1809.be21@chitkara.edu.in",
-        roll: "2110991809",
+        user_id: "jaspreet_Singh",
+        email: "Jaspreet1731.be21@chitkara.edu.in",
+        roll: "2110991731",
         odd_numbers: odd,
         even_numbers: numbers,
         alphabhets: alphabhets
