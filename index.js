@@ -49,5 +49,5 @@ app.post("/bfhl", (req, res) => {
 
 app.listen(port, '0.0.0.0', err => {
     if (err) throw err
-    console.log(Listening on port ${PORT})
+    console.log(`Listening on port ${PORT}`)
   })
